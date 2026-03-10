@@ -8,10 +8,7 @@ ForoHub es una plataforma basada en Spring Boot diseñada para crear, gestionar 
 
 1. [Características](#características)
 2. [Arquitectura del Sistema](#arquitectura-del-sistema)
-3. [Tecnologías Utilizadas](#tecnologías-utilizadas)
-4. [Configuración e Instalación](#configuración-e-instalación)
-5. [Endpoints Principales](#endpoints-principales)
-6. [Contribución](#contribución)
+
 
 ## *Características*
 - **Gestión de Usuarios**: Autenticación y autorización con JWT.
